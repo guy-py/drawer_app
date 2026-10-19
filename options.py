@@ -303,3 +303,6 @@ def ask():
     k.write(str(x.l))
     k.close()
     x.xy.destroy()
+
+
+win.mainloop()
